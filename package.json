@@ -4,6 +4,7 @@
   "description": "Add the Markdown-It-header-sections plugin to vscode.",
   "version": "1.0.0",
   "repository": {"url": "https://github.com/Billaferd/vscode-header-sections.git"},
+  "publisher": "Billaferd",
   "engines": {
     "vscode": "^1.66.0"
   },
